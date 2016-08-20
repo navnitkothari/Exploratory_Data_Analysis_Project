@@ -1,3 +1,5 @@
+## Exploratory Data Analysis Project
+
 ## Introduction
 
 This assignment uses data from
